@@ -1,0 +1,6 @@
+@RknetJobs_HostAddress = http://localhost:5231
+
+GET {{RknetJobs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

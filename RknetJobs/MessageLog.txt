@@ -1,0 +1,57 @@
+
+12.03.2024 23:20:01 Данные успешно скопированы19.03.2024 0:01:04 GetGateAccessDataJob запущен
+19.03.2024 0:24:03 Данные успешно скопированы
+10.06.2024 10:16:40 GetGateAccessDataJob запущен
+10.06.2024 10:27:13 GetGateAccessDataJob запущен
+10.06.2024 10:38:07 GetGateAccessDataJob запущен
+10.06.2024 10:53:31 GetGateAccessDataJob запущен
+10.06.2024 10:54:14 Данные успешно скопированы
+10.06.2024 10:54:40 GetGateAccessDataJob запущен
+10.06.2024 10:56:31 GetGateAccessDataJob запущен
+10.06.2024 10:59:19 GetGateAccessDataJob запущен
+10.06.2024 11:01:00 GetGateAccessDataJob запущен
+10.06.2024 11:02:09 GetGateAccessDataJob запущен
+10.06.2024 11:05:13 GetGateAccessDataJob запущен
+10.06.2024 11:45:39 GetGateAccessDataJob запущен
+10.06.2024 11:46:18 Данные успешно скопированы
+10.06.2024 11:46:26 GetGateAccessDataJob запущен
+10.06.2024 11:47:35 GetGateAccessDataJob запущен
+10.06.2024 11:48:56 GetGateAccessDataJob запущен
+10.06.2024 11:49:43 GetGateAccessDataJob запущен
+10.06.2024 11:52:28 GetGateAccessDataJob запущен
+10.06.2024 11:53:03 GetGateAccessDataJob запущен
+10.06.2024 11:56:37 Данные успешно скопированы
+11.06.2024 16:39:30 GetGateAccessDataJob запущен
+13.06.2024 11:42:01 GetGateAccessDataJob запущен
+13.06.2024 11:43:23 GetGateAccessDataJob запущен
+13.06.2024 11:44:26 GetGateAccessDataJob запущен
+13.06.2024 11:47:39 GetGateAccessDataJob запущен
+13.06.2024 11:48:00 GetGateAccessDataJob запущен
+13.06.2024 11:48:55 GetGateAccessDataJob запущен
+13.06.2024 11:52:48 GetGateAccessDataJob запущен
+13.06.2024 11:53:14 GetGateAccessDataJob запущен
+13.06.2024 11:56:21 GetGateAccessDataJob запущен
+13.06.2024 12:37:57 GetGateAccessDataJob запущен
+13.06.2024 12:48:28 GetGateAccessDataJob запущен
+13.06.2024 13:13:49 GetGateAccessDataJob запущен
+13.06.2024 13:15:13 GetGateAccessDataJob запущен
+13.06.2024 13:15:57 GetGateAccessDataJob запущен
+13.06.2024 13:17:29 GetGateAccessDataJob запущен
+13.06.2024 13:53:15 GetGateAccessDataJob запущен
+13.06.2024 13:58:56 GetGateAccessDataJob запущен
+13.06.2024 14:03:12 GetGateAccessDataJob запущен
+13.06.2024 14:05:30 GetGateAccessDataJob запущен
+13.06.2024 14:07:33 GetGateAccessDataJob запущен
+13.06.2024 14:09:16 GetGateAccessDataJob запущен
+13.06.2024 14:10:33 GetGateAccessDataJob запущен
+13.06.2024 14:12:35 GetGateAccessDataJob запущен
+13.06.2024 14:14:21 Данные успешно скопированы
+13.06.2024 16:31:59 GetGateAccessDataJob запущен
+13.06.2024 16:33:41 Данные успешно скопированы
+06.08.2024 11:16:08 GetGateAccessDataJob запущен
+06.08.2024 11:19:42 GetGateAccessDataJob запущен
+06.08.2024 11:22:14 GetGateAccessDataJob запущен
+06.08.2024 11:28:45 GetGateAccessDataJob запущен
+06.08.2024 11:30:01 GetGateAccessDataJob запущен
+06.08.2024 11:32:26 Данные успешно скопированы
+06.08.2024 11:36:32 GetGateAccessDataJob запущен

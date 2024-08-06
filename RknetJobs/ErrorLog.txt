@@ -1,0 +1,7 @@
+
+12.03.2024 23:20:01 Could not use ''; file already in use.10.06.2024 10:53:41 The instance of entity type 'GateUser' cannot be tracked because another instance with the same key value for {'UserPtr'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+10.06.2024 11:45:44 Data is Null. This method or property cannot be called on Null values.
+13.06.2024 11:46:19 Specified argument was out of the range of valid values. (Parameter 'i')
+13.06.2024 11:47:43 Specified argument was out of the range of valid values. (Parameter 'i')
+13.06.2024 11:48:11 Specified argument was out of the range of valid values. (Parameter 'i')
+13.06.2024 11:53:00 Specified argument was out of the range of valid values. (Parameter 'i')
